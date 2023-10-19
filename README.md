@@ -1,5 +1,5 @@
 # demo-repo
 
-Lore Ipsum
+Lorem Ipsum
 
-## Lore Ipsum
+## Lorem Ipsum
